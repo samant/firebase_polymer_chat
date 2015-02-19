@@ -1,0 +1,33 @@
+{
+  "name": "Simple Chat MD",
+  "version": "0.0.1",
+  "authors": [
+    "Amant Stephane <stephane.amant@gmail.com>"
+  ],
+  "description": "A simple chat demo in Material Design",
+  "keywords": [
+    "polymer",
+    "material",
+    "design",
+    "firebase",
+    "chat"
+  ],
+  "license": "MIT",
+  "homepage": "stephaneamant.com",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "polymer": "Polymer/polymer#~0.5.2",
+    "core-scaffold": "Polymer/core-scaffold#~0.5.2",
+    "paper-input": "Polymer/paper-input#~0.5.2",
+    "paper-fab": "Polymer/paper-fab#~0.5.2",
+    "core-item": "Polymer/core-item#~0.5.2",
+    "firebase-element": "Polymer/firebase-element#~0.5.4"
+  }
+}
