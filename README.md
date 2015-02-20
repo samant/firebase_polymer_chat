@@ -6,7 +6,7 @@ This demo is written for a tutorial to show how to create a simple chat app usin
 
 ## Demo
 
-[You can try this on multiple browsers including mobile](https://samchat.firebaseio.com)
+[You can try this on multiple browsers including mobile](https://samchat.firebaseapp.com)
 
 ## Resources
 
