@@ -52,7 +52,7 @@
       avatar: avatar,
       color: color,
       text: template.input,
-      timestamp: Date.now()
+      timestamp: Firebase.ServerValue.TIMESTAMP
     });
     template.input = '';
   };
